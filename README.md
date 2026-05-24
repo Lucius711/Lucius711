@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Lucius 👋
 
-<!--
-**Lucius711/Lucius711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student focused on Full-stack Web Development.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning: Java, Spring Boot, React, Next.js, TypeScript
+- Interested in: Backend development, REST APIs, authentication, and database design
+- Building: Resort booking platform and full-stack web applications
+- Goal: Become a professional full-stack developer
+
+## Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Java, Spring Boot, NestJS  
+**Database:** SQL Server, PostgreSQL  
+**Tools:** Git, GitHub, Docker, Postman
+
+## Featured Projects
+
+### resortHUB Backend
+A backend system for resort booking management, including APIs for resorts, bookings, authentication, and customer features.
+
+**Tech:** Java, Spring Boot, SQL Server
+
+### resortHUB Frontend(In-process)
+
+A modern web frontend for a resort booking platform, featuring resort browsing, authentication, booking management, customer profile, and payment-related user flows.
+
+**Tech:** Next.js, TypeScript, Tailwind CSS
+
+## Contact
+
+- **Email:** [quanghuy.dev@outlook.com.vn](mailto:quanghuy.dev@outlook.com.vn)
+- **LinkedIn:** [Lucius](https://www.linkedin.com/in/huy-%C4%91%E1%BB%97-quang-006833398/)
